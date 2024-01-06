@@ -1,0 +1,3 @@
+.venv
+# non-anonymized votes will never be available, this is an anti-drama measure.
+votes.json
