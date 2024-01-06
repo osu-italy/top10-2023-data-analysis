@@ -1,4 +1,6 @@
-# Top 10 players
+# Top 10 Italian Players of 2023
+Forum Post: https://osu.ppy.sh/community/forums/topics/1864118
+## Top 10 players
 |    | username        |   points |
 |----|-----------------|----------|
 |  1 | Arge            |   361.5  |
@@ -11,7 +13,7 @@
 |  8 | Sakura Nenecchi |    85    |
 |  9 | Ryuzaki         |    77.5  |
 | 10 | bgm16           |    70.5  |
-# Full Players List
+## Full Players List
 |    | username        |   points |
 |----|-----------------|----------|
 |  1 | Arge            |   361.5  |
