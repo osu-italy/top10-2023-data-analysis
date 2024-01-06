@@ -26,43 +26,43 @@
             },
             {
                 "ranking": 4,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 6,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
                 "choiceId": 16691293,
                 "choiceUsername": "Rushio",
                 "weight": 6,
                 "baseWeight": 3
             },
             {
-                "ranking": 5,
+                "ranking": 6,
                 "choiceId": 19236903,
                 "choiceUsername": "Sakura Nenecchi",
-                "weight": 6,
-                "baseWeight": 3
+                "weight": 4,
+                "baseWeight": 2
             },
             {
-                "ranking": 6,
+                "ranking": 7,
                 "choiceId": 11786359,
                 "choiceUsername": "TheECGovernment",
                 "weight": 4,
                 "baseWeight": 2
             },
             {
-                "ranking": 7,
+                "ranking": 8,
                 "choiceId": 14832855,
                 "choiceUsername": "mhh",
-                "weight": 4,
-                "baseWeight": 2
-            },
-            {
-                "ranking": 8,
-                "choiceId": 10817550,
-                "choiceUsername": "Toma 2",
                 "weight": 2,
                 "baseWeight": 1
             },
             {
                 "ranking": 9,
-                "choiceId": 11749789,
-                "choiceUsername": "Arancino",
+                "choiceId": 10817550,
+                "choiceUsername": "Toma 2",
                 "weight": 2,
                 "baseWeight": 1
             },
@@ -116,29 +116,105 @@
             },
             {
                 "ranking": 6,
-                "choiceId": 19236903,
-                "choiceUsername": "Sakura Nenecchi",
-                "weight": 4,
-                "baseWeight": 2
-            },
-            {
-                "ranking": 7,
                 "choiceId": 7774709,
                 "choiceUsername": "Gigi8974",
                 "weight": 4,
                 "baseWeight": 2
             },
             {
-                "ranking": 8,
+                "ranking": 7,
                 "choiceId": 7165477,
                 "choiceUsername": "Ryuzaki",
+                "weight": 4,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 11476143,
+                "choiceUsername": "bgm16",
                 "weight": 2,
                 "baseWeight": 1
             },
             {
                 "ranking": 9,
+                "choiceId": 19236903,
+                "choiceUsername": "Sakura Nenecchi",
+                "weight": 2,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 13925698,
+                "choiceUsername": "Jaki 2Milli",
+                "weight": 2,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 2,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 12,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 10,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 8,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 17446380,
+                "choiceUsername": "TheITGovernment",
+                "weight": 6,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 16691293,
+                "choiceUsername": "Rushio",
+                "weight": 6,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 4,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
                 "choiceId": 11476143,
                 "choiceUsername": "bgm16",
+                "weight": 4,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 7774709,
+                "choiceUsername": "Gigi8974",
+                "weight": 2,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 19236903,
+                "choiceUsername": "Sakura Nenecchi",
                 "weight": 2,
                 "baseWeight": 1
             },
@@ -603,6 +679,82 @@
                 "choiceId": 3516241,
                 "choiceUsername": "Spazza17",
                 "weight": 0.75,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 2,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 12,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 10,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 17446380,
+                "choiceUsername": "TheITGovernment",
+                "weight": 8,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 6,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 7774709,
+                "choiceUsername": "Gigi8974",
+                "weight": 6,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 4,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 19236903,
+                "choiceUsername": "Sakura Nenecchi",
+                "weight": 4,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 2,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 16691293,
+                "choiceUsername": "Rushio",
+                "weight": 2,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 11786359,
+                "choiceUsername": "TheECGovernment",
+                "weight": 2,
                 "baseWeight": 1
             }
         ]
@@ -2209,6 +2361,82 @@
         "votes": [
             {
                 "ranking": 1,
+                "choiceId": 4188624,
+                "choiceUsername": "Markden",
+                "weight": 7.5,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 6.25,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 5.0,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 3.75,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 3.75,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 11476143,
+                "choiceUsername": "bgm16",
+                "weight": 2.5,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 2.5,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 13925698,
+                "choiceUsername": "Jaki 2Milli",
+                "weight": 1.25,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 3833346,
+                "choiceUsername": "Wido",
+                "weight": 1.25,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 12128420,
+                "choiceUsername": "Caparezza",
+                "weight": 1.25,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1.25,
+        "votes": [
+            {
+                "ranking": 1,
                 "choiceId": 17446380,
                 "choiceUsername": "TheITGovernment",
                 "weight": 7.5,
@@ -2426,6 +2654,82 @@
                 "ranking": 10,
                 "choiceId": 11786359,
                 "choiceUsername": "TheECGovernment",
+                "weight": 1,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 7774709,
+                "choiceUsername": "Gigi8974",
+                "weight": 6,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 5,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 3516241,
+                "choiceUsername": "Spazza17",
+                "weight": 4,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 11409111,
+                "choiceUsername": "giulio",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 7071856,
+                "choiceUsername": "Memento Vivi",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 4704608,
+                "choiceUsername": "Daren",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 3614356,
+                "choiceUsername": "-Kazuki-",
                 "weight": 1,
                 "baseWeight": 1
             }
@@ -2907,6 +3211,82 @@
             },
             {
                 "ranking": 3,
+                "choiceId": 17446380,
+                "choiceUsername": "TheITGovernment",
+                "weight": 4,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 7774709,
+                "choiceUsername": "Gigi8974",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 19236903,
+                "choiceUsername": "Sakura Nenecchi",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 11903030,
+                "choiceUsername": "Rejax",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 12818740,
+                "choiceUsername": "Mussolini Pizza",
+                "weight": 1,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 6,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 5,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
                 "choiceId": 11749789,
                 "choiceUsername": "Arancino",
                 "weight": 4,
@@ -3034,6 +3414,82 @@
                 "ranking": 10,
                 "choiceId": 16691293,
                 "choiceUsername": "Rushio",
+                "weight": 1,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 6,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 5,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 4,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 11476143,
+                "choiceUsername": "bgm16",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 17446380,
+                "choiceUsername": "TheITGovernment",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 16691293,
+                "choiceUsername": "Rushio",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 7774709,
+                "choiceUsername": "Gigi8974",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 11409111,
+                "choiceUsername": "giulio",
                 "weight": 1,
                 "baseWeight": 1
             }
@@ -3273,6 +3729,82 @@
         "votes": [
             {
                 "ranking": 1,
+                "choiceId": 4704608,
+                "choiceUsername": "Daren",
+                "weight": 6,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 9961436,
+                "choiceUsername": "Surpy",
+                "weight": 5,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 4,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 3516241,
+                "choiceUsername": "Spazza17",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 3525018,
+                "choiceUsername": "DT-sama",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 7183657,
+                "choiceUsername": "DJ YOSHITAKA",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 12818740,
+                "choiceUsername": "Mussolini Pizza",
+                "weight": 1,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1,
+        "votes": [
+            {
+                "ranking": 1,
                 "choiceId": 11215030,
                 "choiceUsername": "Arge",
                 "weight": 6,
@@ -3490,6 +4022,82 @@
                 "ranking": 10,
                 "choiceId": 3833346,
                 "choiceUsername": "Wido",
+                "weight": 1,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 6,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 5,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 4,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 13925698,
+                "choiceUsername": "Jaki 2Milli",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 11476143,
+                "choiceUsername": "bgm16",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 3833346,
+                "choiceUsername": "Wido",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 11409111,
+                "choiceUsername": "giulio",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 19236903,
+                "choiceUsername": "Sakura Nenecchi",
                 "weight": 1,
                 "baseWeight": 1
             }
@@ -3805,22 +4413,22 @@
         "votes": [
             {
                 "ranking": 1,
-                "choiceId": 11215030,
-                "choiceUsername": "Arge",
+                "choiceId": 17446380,
+                "choiceUsername": "TheITGovernment",
                 "weight": 6,
                 "baseWeight": 6
             },
             {
                 "ranking": 2,
-                "choiceId": 6387149,
-                "choiceUsername": "kiirochii",
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
                 "weight": 5,
                 "baseWeight": 5
             },
             {
                 "ranking": 3,
-                "choiceId": 17446380,
-                "choiceUsername": "TheITGovernment",
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
                 "weight": 4,
                 "baseWeight": 4
             },
@@ -3854,22 +4462,22 @@
             },
             {
                 "ranking": 8,
-                "choiceId": 7165477,
-                "choiceUsername": "Ryuzaki",
+                "choiceId": 16691293,
+                "choiceUsername": "Rushio",
                 "weight": 1,
                 "baseWeight": 1
             },
             {
                 "ranking": 9,
-                "choiceId": 11476143,
-                "choiceUsername": "bgm16",
+                "choiceId": 9704802,
+                "choiceUsername": "zekk",
                 "weight": 1,
                 "baseWeight": 1
             },
             {
                 "ranking": 10,
-                "choiceId": 4917316,
-                "choiceUsername": "Amnesia Haze",
+                "choiceId": 11786359,
+                "choiceUsername": "TheECGovernment",
                 "weight": 1,
                 "baseWeight": 1
             }
@@ -5092,6 +5700,82 @@
         ]
     },
     {
+        "country": "FR",
+        "multiplier": 0.75,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 4.5,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 3.75,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 3.0,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 17446380,
+                "choiceUsername": "TheITGovernment",
+                "weight": 2.25,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 11476143,
+                "choiceUsername": "bgm16",
+                "weight": 2.25,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 1.5,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 1.5,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 11409111,
+                "choiceUsername": "giulio",
+                "weight": 0.75,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 7774709,
+                "choiceUsername": "Gigi8974",
+                "weight": 0.75,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 9704802,
+                "choiceUsername": "zekk",
+                "weight": 0.75,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
         "country": "GR",
         "multiplier": 0.75,
         "votes": [
@@ -5249,6 +5933,82 @@
         "votes": [
             {
                 "ranking": 1,
+                "choiceId": 17446380,
+                "choiceUsername": "TheITGovernment",
+                "weight": 6,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 5,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 4,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 10380158,
+                "choiceUsername": "Jabahh",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 7774709,
+                "choiceUsername": "Gigi8974",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 11476143,
+                "choiceUsername": "bgm16",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 16691293,
+                "choiceUsername": "Rushio",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 3833346,
+                "choiceUsername": "Wido",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 19236903,
+                "choiceUsername": "Sakura Nenecchi",
+                "weight": 1,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1,
+        "votes": [
+            {
+                "ranking": 1,
                 "choiceId": 11215030,
                 "choiceUsername": "Arge",
                 "weight": 6,
@@ -5314,6 +6074,82 @@
                 "ranking": 10,
                 "choiceId": 21709356,
                 "choiceUsername": "Crazy Hot",
+                "weight": 1,
+                "baseWeight": 1
+            }
+        ]
+    },
+    {
+        "country": "IT",
+        "multiplier": 1,
+        "votes": [
+            {
+                "ranking": 1,
+                "choiceId": 4188624,
+                "choiceUsername": "Markden",
+                "weight": 6,
+                "baseWeight": 6
+            },
+            {
+                "ranking": 2,
+                "choiceId": 3525018,
+                "choiceUsername": "DT-sama",
+                "weight": 5,
+                "baseWeight": 5
+            },
+            {
+                "ranking": 3,
+                "choiceId": 6387149,
+                "choiceUsername": "kiirochii",
+                "weight": 4,
+                "baseWeight": 4
+            },
+            {
+                "ranking": 4,
+                "choiceId": 11215030,
+                "choiceUsername": "Arge",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 5,
+                "choiceId": 11749789,
+                "choiceUsername": "Arancino",
+                "weight": 3,
+                "baseWeight": 3
+            },
+            {
+                "ranking": 6,
+                "choiceId": 7165477,
+                "choiceUsername": "Ryuzaki",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 7,
+                "choiceId": 7071856,
+                "choiceUsername": "Memento Vivi",
+                "weight": 2,
+                "baseWeight": 2
+            },
+            {
+                "ranking": 8,
+                "choiceId": 10735379,
+                "choiceUsername": "SHEKERANDO",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 9,
+                "choiceId": 12128420,
+                "choiceUsername": "Caparezza",
+                "weight": 1,
+                "baseWeight": 1
+            },
+            {
+                "ranking": 10,
+                "choiceId": 1474421,
+                "choiceUsername": "Lucyii",
                 "weight": 1,
                 "baseWeight": 1
             }
